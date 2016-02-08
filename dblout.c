@@ -1,4 +1,5 @@
-/* a program the book uses to help demonstrate redirection. The program outputs two characters for whatever character you type on 
+/* a program the book uses to help demonstrate redirection.
+The program outputs two characters for whatever character you type on 
 the line below. Must use end-of-file Signal, like ctrl d, or ctrl c to terminate.*/
 
 #include <stdio.h>
